@@ -34,8 +34,6 @@ public final class Datum implements Comparable<Datum>
     private final int _monat;
     private final int _tag;
 
-    // DIES IST EIN TESTKOMMENTAR
-    // DIES IST NOCH EIN KOMMENTAR
     // Statische Initialisierungsblöcke dienen der Initialisierung von Klassenvariablen.
     static
     {
