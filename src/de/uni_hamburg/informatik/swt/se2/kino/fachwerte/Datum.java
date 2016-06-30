@@ -36,6 +36,7 @@ public final class Datum implements Comparable<Datum>
 
     // DIES IST EIN TESTKOMMENTAR
     // DIES IST NOCH EIN KOMMENTAR
+    // Und noch was
     // Statische Initialisierungsblöcke dienen der Initialisierung von Klassenvariablen.
     static
     {
