@@ -14,6 +14,7 @@ public final class Geldbetrag
         assert stringKorrekt(
                 geldbetragString) : "String nicht korrekt formatiert als 'EE,CC'";
 
+        // Kommentar
         String euro = geldbetragString.substring(0,
                 geldbetragString.length() - 3);
         String cent = geldbetragString.substring(geldbetragString.length() - 2,
